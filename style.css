@@ -1,0 +1,288 @@
+.background{
+    background-color:#191923;
+}
+.Line1{
+    width: 100%; height: 0px; left: 0px; top: 74.50px; position: absolute; border: 1px #3B3A4C solid
+}
+.Rectangle1{
+    width: 100%; height: 8px; left: 0px; top: 0px; position: absolute; background: #2B2A38
+}
+.Navbar{
+    width: 1104px; height: 35px; left: 158px; top: 17px; position: absolute  
+}
+.MohamedMahrous{
+    width: 100%; height: 100%; left: 0px; top: 7px; position: absolute; color: #F52C56; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: uppercase; word-wrap: break-word    
+}
+
+.Rectangle4{
+    width: 80px; height: 34px; left: 665px; top: 1px; position: absolute
+}
+.links{
+    display: flex;
+    gap: 40px;
+    width: 100%; height: 100%; left:800px; top:0px; position: absolute; color: #F52C56; font-size: 20px; font-family: Outfit; 
+}
+.active{
+    color: white;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+.active:hover{
+    color: #F52C56;
+}
+.Home1{
+    width: 100%; height: 478px; left: 0px; top: 75px; position: absolute
+}
+.MaskGroup{
+    width: 100%; height: 435px; left: 0px; top: 0px; position: absolute; opacity: 0.10
+}
+.Image1{
+    width: 100%; height: 478px; left: 0px; top: 0px; position: absolute; opacity: 0.50
+}
+.Rectangle2{
+    width: 100%; height: 435px; left: 0px; top: 0px; position: absolute;
+}
+.Frame1{
+    width: 100%; height: 478px; left: 0px; top: 0px; position: absolute; opacity: 0.30; background: black 
+}
+
+.iam{
+    width: 431px; height: 22px; left: 158px; top: 259px; position: absolute
+}
+.s1{
+    color: white; font-size: 10px; font-family: Outfit; font-weight: 300; text-transform: capitalize; word-wrap: break-word
+}
+.s2{
+    color: white; font-size: 10px; font-family: Outfit; font-weight: 300; text-transform: lowercase; word-wrap: break-word
+}
+.btn-about{
+    width: 200px; height: 35px; left: 183px; top: 308px; position: absolute; color: white; font-size: 20px; font-family: Outfit;  
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 10px;
+    border-radius: 15px;
+    font-weight: bold;
+    display: inline-block;
+    letter-spacing: 1px;
+}
+.btn-about:hover{
+    background-color: #F52C56;
+    transition: 0.7s ease;
+}
+.MohamedMahrous1{
+    width: 431px; height: 50px; left: 158px; top: 138px; position: absolute; color: white; font-size: 40px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.IBuildThingsForTheWeb{
+    width: 477px; height: 50px; left: 158px; top: 188px; position: absolute
+}
+.i1{
+    color: white; font-size: 40px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.i2{
+    color: white; font-size: 40px; font-family: Outfit; font-weight: 700; text-transform: lowercase; word-wrap: break-word
+}
+.HiMyNameIs{
+    width: 92px; height: 20px; left: 158px; top: 118px; position: absolute; color: #F52C56; font-size: 13px; font-family: Outfit; font-weight: 600; text-transform: capitalize; word-wrap: break-word
+}
+.image2{
+    width: 483px; height: 442px; left: 900px; top: 18px; position: absolute
+}
+.About1{
+    width: 1221px; height: 580px; left: 62px; top: 550px; position: absolute
+}
+.Rectangle6{
+    width: 1125px; height: 448px; left: px; top: 132px; position: absolute; background: #0B0A10; border-radius: 100px
+}
+.About2{
+    width: 156px; height: 61px; left: 667px; top: 177px; position: absolute; color: #F52C56; font-size: 40px; font-family: Outfit; font-weight: 800; text-transform: uppercase; word-wrap: break-word"
+}
+.Mo1{
+    width: 380px; height: 61px; left: 667px; top: 239px; position: absolute
+}
+.m1{
+    color: white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: uppercase; word-wrap: break-word"
+}
+.m2{
+   color:  white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: lowercase; word-wrap: break-word"
+}
+.m3{
+   color:  white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word"
+}
+.m4{
+    color: white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: lowercase; word-wrap: break-word
+}
+.m5{
+    color: white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.m6{
+    color: white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: lowercase; word-wrap: break-word
+}
+.m7{
+    color: white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.m8{
+    color: white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: lowercase; word-wrap: break-word
+}
+.m9{
+    color: white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.m10{
+   color:  white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: lowercase; word-wrap: break-word
+}
+.JavaScriptPythonHtmlCssFigma{
+    width: 95px; height: 189px; left: 667px; top: 314px; position: absolute; color: white; font-size: 16px; font-family: Outfit; font-weight: 500; text-transform: capitalize; word-wrap: break-word
+}
+.PhpNodeJsWordPress{
+    width: 95px; height: 189px; left: 775px; top: 314px; position: absolute; color: white; font-size: 16px; font-family: Outfit; font-weight: 500; text-transform: capitalize; word-wrap: break-word
+}
+.RemovebgPreview1{
+    width: 493px; height: 308px; left: 0px; top: 202px; position: absolute
+}
+.RemovebgPreview2{
+    width: 251px; height: 220px; left: 96px; top: 0px; position: absolute
+}
+.Work1{
+    width: 1265px; height: 519px; left: 79px; top: 1226px; position: absolute
+}
+.SomeOfMyWorks{
+    width: 361px; height: 50px; left: 79px; top: 60px; position: absolute; color: #F52C56; font-size: 40px; font-family: Reem Kufi; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.RemovebgPreview7{
+    width: 291.61px; height: 220px; left: 853px; top: 0px; position: absolute
+}
+.p61{
+    width: 270px; height: 270px; left: 79px; top: 206px; position: absolute
+}
+.p71{
+    width: 270px; height: 270px; left: 364px; top: 206px; position: absolute
+}
+.p1{
+    width: 269px; height: 270px; left: 650px; top: 206px; position: absolute
+}
+.p2{
+    width: 269px; height: 270px; left: 936px; top: 206px; position: absolute
+}
+.ProjectBreeze{
+    width: 110px; height: 28px; left: 159px; top: 491px; position: absolute; color: white; font-size: 16px; font-family: Outfit; font-weight: 400; text-transform: capitalize; word-wrap: break-word
+}
+.ProjectIlluminate{
+    width: 131px; height: 28px; left: 1014px; top: 491px; position: absolute; color: white; font-size: 16px; font-family: Outfit; font-weight: 400; text-transform: capitalize; word-wrap: break-word
+}
+.CommandPrg{
+    width: 110px; height: 28px; left: 444px; top: 491px; position: absolute; color: white; font-size: 16px; font-family: Outfit; font-weight: 400; text-transform: capitalize; word-wrap: break-word
+}
+.CommandPrg1{
+    width: 110px; height: 28px; left: 729px; top: 491px; position: absolute; color: white; font-size: 16px; font-family: Outfit; font-weight: 400; text-transform: capitalize; word-wrap: break-word
+}
+.p3{
+    width: 33px; height: 61px; left: 1232px; top: 310px; position: absolute; color: white; font-size: 50px; font-family: Outfit; font-weight: 400; text-transform: capitalize; word-wrap: break-word
+}
+.p4{
+    width: 33px; height: 61px; left: 33px; top: 371px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; color: white; font-size: 50px; font-family: Outfit; font-weight: 400; text-transform: capitalize; word-wrap: break-word"   
+}
+.Contant1{
+    width: 1125px; height: 607px; left: 158px; top: 1789px; position: absolute
+}
+.Rectangle6{
+    width: 1125px; height: 403px; left: 0px; top: 204px; position: absolute; background: black; border-radius: 75px
+}
+.Rectangle9{
+    width: 745px; height: 71px; left: 190px; top: 447px; position: absolute; background: #F52C56; border-radius: 75px
+}
+.EnterYourEmail{
+    width: 206px; height: 40px; left: 301px; top: 469px; position: absolute; color: rgba(255, 255, 255, 0.50); font-size: 24px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.GetStartedWithMe{
+    width: 233px; height: 107px; left: 450px; top: 250px; position: absolute; text-align: center; color: white; font-size: 40px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.Submit{
+    background-color: white;
+    text-decoration: none;
+    padding: 5px ;
+    text-align: center;
+    border-radius: 25px;
+    font-weight: bold;
+    width: 95px; height: 34px; left: 787px; top: 465px; position: absolute; color: black; font-size: 24px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.Submit:hover{
+    color:white;
+    background-color:#0B0A10;
+    transition: 0.7s ease;
+}
+.Contant2{
+    width: 165px; height: 68px; left: 488px; top: 111px; position: absolute; color: white; font-size: 40px; font-family: Reem Kufi; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.UntitledRemovebgPreview1{
+    width: 253px; height: 118px; left: 426px; top: 0px; position: absolute
+}
+.Footer{
+    width: 1116px; height: 324px; left: 152px; top: 2593px; position: absolute;
+    
+}
+
+.footer1{
+    text-decoration:none; width: 100%; height: 100%; left: 400px;px; top:0px; position: absolute; color: white; font-size: 20px; font-family: Outfit; 
+}
+.footer2{
+    text-decoration:none; width: 100%; height: 100%; left: 400px;px; top:50px; position: absolute; color:white; font-size: 20px; font-family: Outfit; 
+}
+.footer3{
+    text-decoration:none; width: 100%; height: 100%; left: 400px;px; top:100px; position: absolute; color: white; font-size: 20px; font-family: Outfit; 
+}
+.footer4{
+    text-decoration:none; width: 100%; height: 100%; left: 400px;px; top:150px; position: absolute; color: white; font-size: 20px; font-family: Outfit; 
+}
+.footer1:hover{
+    color: #F52C56;
+}
+.footer2:hover{
+    color: #F52C56;
+}
+.footer3:hover{
+    color: #F52C56;
+}
+.footer4:hover{
+    color: #F52C56;
+}
+.MohamedMahrous4{
+    width: 266px; left: 0px; top: 0px; position: absolute; color: #F52C56; font-size: 24px; font-family: Outfit; font-weight: 700; word-wrap: break-word 
+}
+.CopyRightMohamedMahrous{
+    width: 457px; left: 0px; top: 260px; position: absolute; color: white; font-size: 24px; font-family: Outfit; font-weight: 700; word-wrap: break-word
+}
+.Pngegg81{
+    width: 48px; height: 50px; left: 577px; top: 0px; position: absolute
+}
+.m0201012187786{
+    width: 158px; left: 662px; top: 24px; position: absolute; color: white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.MmMMohamed12789GmailCom{
+    width: 336px; left: 658px; top: 75px; position: absolute; color: white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: lowercase; word-wrap: break-word
+}
+.CairoEgypt{
+    width: 116px; left: 659px; top: 141px; position: absolute; color: white; font-size: 20px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.FollowMeInSocialNetworks{
+    width: 446px; left: 660px; top: 212px; position: absolute; color: white; font-size: 32px; font-family: Outfit; font-weight: 700; text-transform: capitalize; word-wrap: break-word
+}
+.Pngegg91{
+    width: 59px; height: 48px; left: 568px; top: 130px; position: absolute
+}
+.Pngegg1{
+    width: 54px; height: 46px; left: 568px; top: 69px; position: absolute    
+}
+.Facebook1{
+    width: 85px; height: 80px; left: 748px; top: 244px; position: absolute
+}
+.Instagram1{
+    width: 84px; height: 80px; left: 844px; top: 244px; position: absolute
+}
+.Snapchat1{
+    width: 84px; height: 80px; left: 937px; top: 244px; position: absolute
+}
+.Whatsapp1{
+    width: 83px; height: 80px; left: 653px; top: 244px; position: absolute
+}
+.Tiktok1{
+    width: 84px; height: 80px; left: 1032px; top: 244px; position: absolute
+}
